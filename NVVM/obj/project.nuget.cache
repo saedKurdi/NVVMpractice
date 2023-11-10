@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+gvm5vAUaMokiB5bolZa96RL7WAeEvkOW+a9+zgeQuHg3iOn0AvkwZtXRKwjePue2AVriGwnBG2zySWmfmytw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\NVVM\\NVVM\\NVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
